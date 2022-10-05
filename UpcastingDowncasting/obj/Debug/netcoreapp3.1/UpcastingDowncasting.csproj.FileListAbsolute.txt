@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\P134\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.exe
+C:\Users\Lenovo\Desktop\P134\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.deps.json
+C:\Users\Lenovo\Desktop\P134\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.runtimeconfig.json
+C:\Users\Lenovo\Desktop\P134\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\P134\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.dll
+C:\Users\Lenovo\Desktop\P134\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.pdb
+C:\Users\Lenovo\Desktop\P134\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\P134\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\P134\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\P134\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\P134\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\P134\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.dll
+C:\Users\Lenovo\Desktop\P134\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.pdb
+C:\Users\Lenovo\Desktop\P134\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.genruntimeconfig.cache
